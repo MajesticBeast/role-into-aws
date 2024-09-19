@@ -1,0 +1,34 @@
+[[account]]
+number = "123456789012"
+role = "Admin"
+name = "MainAccount"
+
+[[account]]
+number = "987654321098"
+role = "DevOps"
+name = "DevTeam"
+
+[[account]]
+number = "111111111111"
+role = "FinanceAdmin"
+name = "Finance"
+
+[[account]]
+number = "222222222222"
+role = "HRAdmin"
+name = "HR"
+
+[[account]]
+number = "333333333333"
+role = "MarketingAdmin"
+name = "Marketing"
+
+[[account]]
+number = "444444444444"
+role = "SalesAdmin"
+name = "Sales"
+
+[[account]]
+number = "555555555555"
+role = "SupportAdmin"
+name = "Support"
